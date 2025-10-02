@@ -1,36 +1,47 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Carter S. Godin",
+    "label": "Software Engineer and Data Analyst",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "godincarter17@gmail.com",
+    "phone": "(401) 523-0712)",
+    "url": "https://godincarter17.github.io",
+    "summary": "Software architect, machine learning, and data analysis specialist with over 4 years of experience designing and deploying production systems in local and cloud environments. Background in building and optimizing scalable data and processing pipelines and microservices using Docker, Kubernetes, Python, and CI/CD tools. Expertise in workflow automation, and performance tuning, with strong experience translating stakeholder needs into robust technical solutions.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "34 Franklin St.",
+      "postalCode": "NH 03064",
+      "city": "Nashua",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Hampshire"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Carter-Godin",
+        "url": "https://www.linkedin.com/in/carter-godin/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "Lincoln Laboratory, Massachusetts Institute of Technology",
+      "position": "Assistant Technical Staff",
+      "url": "https://www.ll.mit.edu/",
+      "startDate": "September 2022",
+      "endDate": "Present",
+      "summary": "Directed and executed the design of software and data analysis systems",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Lincoln Laboratory, Massachusetts Institute of Technology",
+      "position": "Software Development Specialist",
+      "url": "https://www.ll.mit.edu/",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": [
+        "Relativity"
+      ]
     }
   ],
   "volunteer": [
