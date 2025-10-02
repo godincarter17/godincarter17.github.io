@@ -2,10 +2,10 @@
 layout: book-review
 title: The Three-Body Problem
 author: Cixin Liu
-cover: 
+cover: assets/img/book_covers/three-body-cover.jpg
 olid: OL25076211W # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 978-0-7653-7706-7 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Science Fiction, Hard Science Fiction, Alien Contact, Hugo Award Winner
+categories: Science-Fiction, Hard-Science-Fiction, Alien-Contact
 tags: top-100
 started: 2022-08-20
 finished: 2022-09-07

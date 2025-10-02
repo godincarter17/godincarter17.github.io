@@ -2,10 +2,10 @@
 layout: book-review
 title: Hyperion
 author: Dan Simmons
-cover: 
+cover: assets/img/book_covers/hyperion-cover.jpg
 olid: OL902798W # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 978-0-3852-4949-2 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: Science Fiction, Space Opera, Hugo Award Winner, Pilgrimage, Cyberpunk
+categories: Science-Fiction, Space-Opera, Pilgrimage, Cyberpunk
 tags: top-100
 started: 2023-04-23
 finished: 2023-06-07

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Remote Software Engineer and Machine Learning Researcher | Nashua, NH, USA | (401) 523-0712 | godincarter17@gmail.com (preferred contact method) |
+subtitle: Remote Software Eng. and ML Researcher | Nashua, NH, USA | (401) 523-0712 | godincarter17@gmail.com (preferred)
 
 profile:
   align: right
