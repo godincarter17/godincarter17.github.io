@@ -1,47 +1,29 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Comparative Analysis of Casini Mission Trajectory
+description: Calculated and compared predicted trajectory including frame transformation to propagate the trajectory of the Cassini spacecraft and model it graphically.
+img: assets/img/cassini1.png
 importance: 1
-category: work
+category: Academic
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As part of our capstone design project, my team was tasked with developing a software tool set that would enable the visualization of various aspects of our spacecraft's intended trajectory.
+With our goal being to enable our vehicle to closely follow the Martian moon Deimos, our flight path was shaping up to be rather complex. So as a proof of concept, We took it upon ourselves
+To develop Matlab based visualization tools to help with mission planning.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+As a test case, we decided to take the flight trajectory of the Cassini Huygens spacecraft. Cassini was a complex robotic vehicle that performed an extended science mission among Saturn's family of moons. With a wide array of instrumentation, it was able to capture breathtaking data about the methane seas and ice jets of bodies never before seen. To learn more about the Cassini Huygens mission, follow this [link](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens) to Wikipedia.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cassini-insertion.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cassini-destinations.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Artists concept of Cassini's orbit insertion around Saturn, and selected destinations of the mission ordered Largest to Smallest (but not to scale). Both images courtesy of Wikipedia.
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
