@@ -39,5 +39,3 @@ The bulk of the work consisted of generating several key plots that would determ
 <div class="caption">
     1. "Porkchop plot" showing the relationship between departure and arrival dates between Earth and Mars (notional - unreleated to Cassini mission) 2. Plot of Cassini mission trajectory (courtesy of NASA.)
 </div>
-
-{% endraw %}
