@@ -431,9 +431,9 @@ ninja.data = [{
           description: "Calculated and compared predicted trajectory including frame transformation to propagate the trajectory of the Cassini spacecraft and model it graphically.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-dread-deimos-research-exploration-analysis-and-discovery-orbiter",
+          title: 'DREAD - Deimos Research, Exploration, Analysis, and Discovery Orbiter',
+          description: "A novel Deimos geodyssey orbiter and interplanetary science mission concept.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
