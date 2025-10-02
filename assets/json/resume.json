@@ -36,44 +36,73 @@
       "name": "Lincoln Laboratory, Massachusetts Institute of Technology",
       "position": "Software Development Specialist",
       "url": "https://www.ll.mit.edu/",
-      "startDate": "Sep. 2021",
-      "endDate": "Sep. 2022",
+      "startDate": "Jun. 2020",
+      "endDate": "Aug. 2020",
       "summary": "Conducted agile development of multi-threaded data analysis algorithms within existing enterprise system, resulting in first-ever detections of critical results, and processing time reductions of up to 50%. Utilized end-to-end CI/CD pipline in Jenkins for testing, code analysis/scanning, build and deployment.",
       "highlights": [ "Algorithm Development", "Data Analysis", "Enterprise Software Development"]
     },
     {
-      "name": "Lincoln Laboratory, Massachusetts Institute of Technology",
-      "position": "Software Development Specialist",
-      "url": "https://www.ll.mit.edu/",
+      "name": "Brookhaven National Laboratory",
+      "position": "SULI Engineering Intern",
+      "url": "https://www.bnl.gov/education/programs/program.php?q=188",
       "startDate": "Sep. 2021",
       "endDate": "Sep. 2022",
-      "summary": "Conducted agile development of multi-threaded data analysis algorithms within existing enterprise system, resulting in first-ever detections of critical results, and processing time reductions of up to 50%. Utilized end-to-end CI/CD pipline in Jenkins for testing, code analysis/scanning, build and deployment.",
-      "highlights": [ "Algorithm Development", "Data Analysis", "Enterprise Software Development"]
+      "summary": "Designed installation hardware and complex loading procedures on the Relativistic Heavy Ion Collider sPHENIX experiment. Utilized Matlab to implement low-tolerance numerical schemes simulating structural load and stress distributions in the detector’s hardware.Advised chief mechanical engineer on issues of cost, safety, and viability.",
+      "highlights": [ "Matlab", "Project Management", "Verification and Validation"]
+    },
+    {
+      "name": "Mid-Atlantic Regional Spaceport",
+      "position": "FGSE Intern",
+      "url": "https://www.vaspace.org/",
+      "startDate": "Feb. 2020",
+      "endDate": "Aug. 2020",
+      "summary": "Used SolidWorks facilities design tools to create integrated design schematics of FGSE equipment and pad structure for Rocket Lab’s LC2 launch complex. Designed and built a database of Fluid Ground Support Equipment system information for the Antares mission Pad-0A to document and track component service history for mission assurance.",
+      "highlights": [ "CAD", "Project Management"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Physics Department, Rensselaer Polytechnic Institute",
+      "location": "Troy, NY, USA",
+      "position": "Teaching Assistant",
+      "url": "https://physics.rpi.edu/",
+      "startDate": "Aug. 2018",
+      "endDate": "May 2021",
+      "summary": "Assisted in teaching EM theory, special relativity, optics graded homework assignments and tests. Set up and aided students in experiments and hosted 4 monthly exam prep sessions per semester. Held office hours to assist students with homework and exam preparation.",
+      "highlights": ["Teaching", "Mentoring"]
+    },
+    {
+      "organization": "Rensselaer Polytechnic Institute",
+      "location": "Troy, NY, USA",
+      "position": "Resident Assistant",
+      "url": "https://www.rpi.edu/",
+      "startDate": "Apr. 2019",
+      "endDate": "Aug. 2019",
+      "summary": "Supervised a floor of ~40 first-year students. Planned and executed monthly educational and social programs to foster community and personal growth. Served as a resource for students in crisis and referred them to campus resources as needed.",
+      "highlights": ["Mentoring"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Rensselaer Polytechnic Institute (RPI)",
+      "location": "Troy, NY, USA",
+      "url": "https://www.rpi.edu/",
+      "area": "Aeronautical Engineering, Conc. Space Vehicle Design",
+      "studyType": "BS",
+      "startDate": "Aug. 2017",
+      "endDate": "May 2021",
+      "score": "3.14/4.00",
+      "courses": ["Scientific Computing", "Space Flight Mechanics", "Orbital Mechanics", "Astronautics", "Fluid Mechanics", "Thermodynamics", "Materials Science"]
+    },
+    {
+      "institution": "CSAIL - Massachusetts Institute of Technology (MIT)",
+      "location": "Cambridge, MA, USA",
+      "url": "https://www.csail.mit.edu/",
+      "area": "Computer Science, Artificial Intelligence",
+      "studyType": "Non-Matriculating",
+      "startDate": "Feb. 2022",
+      "endDate": "Nov. 2022",
+      "courses": ["Cognitive Robotics", "Feedback Control Systems"]
     }
   ],
   "awards": [
