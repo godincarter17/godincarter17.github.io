@@ -103,6 +103,16 @@
       "startDate": "Feb. 2022",
       "endDate": "Nov. 2022",
       "courses": ["Cognitive Robotics", "Feedback Control Systems"]
+    },
+    {
+      "institution": "Lincoln Lab - Massachusetts Institute of Technology (MIT)",
+      "location": "Lexington, MA, USA",
+      "url": "https://www.ll.mit.edu/",
+      "area": "Artificial Intelligence, Project Management",
+      "studyType": "Professional Education",
+      "startDate": "Feb. 2024",
+      "endDate": "Jul. 2025",
+      "courses": ["AI: A Systems Approach", "Delegation Strategies for Leaders"]
     }
   ],
   "awards": [
@@ -130,16 +140,40 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Software Development",
+      "level": "Professional",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C/C++",
+        "Bash",
+        "Git",
+        "PostgreSQL & MySQL",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Professional",
+      "icon": "",
+      "keywords": [
+        "DevSecOps",
+        "CI/CD",
+        "Jenkins & TeamCity",
+        "Docker & Podman",
+        "Kubernetes",
+        "Waterfall & Agile Methodologies"
+      ]
+    },
+    {
+      "name": "Technical Communication",
+      "level": "Professional",
+      "icon": "",
+      "keywords": [
+        "Technical Writing",
+        "Technical Presentations",
+        "Iterative Development",
+        "Software Team Leadership"
       ]
     }
   ],
@@ -152,7 +186,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence & Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
