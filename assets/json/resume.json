@@ -1,10 +1,10 @@
 {
-  "basics": {
+  "General": {
     "name": "Carter S. Godin",
     "label": "Software Engineer and Data Analyst",
     "image": "",
     "email": "godincarter17@gmail.com",
-    "phone": "(401) 523-0712)",
+    "phone": "(401) 523-0712",
     "url": "https://godincarter17.github.io",
     "summary": "Software architect, machine learning, and data analysis specialist with over 4 years of experience designing and deploying production systems in local and cloud environments. Background in building and optimizing scalable data and processing pipelines and microservices using Docker, Kubernetes, Python, and CI/CD tools. Expertise in workflow automation, and performance tuning, with strong experience translating stakeholder needs into robust technical solutions.",
     "location": {
@@ -27,21 +27,28 @@
       "name": "Lincoln Laboratory, Massachusetts Institute of Technology",
       "position": "Assistant Technical Staff",
       "url": "https://www.ll.mit.edu/",
-      "startDate": "September 2022",
+      "startDate": "Sep. 2022",
       "endDate": "Present",
-      "summary": "Directed and executed the design of software and data analysis systems",
-      "highlights": ["Relativity"]
+      "summary": "Directed and executed the design of software and Machine Learning-based data analysis systems. Utilized Python, Docker, and Kubernetes to build scalable systems and Jenkins, TeamCity to enable DevSecOps.",
+      "highlights": ["Software Engineering", "Machine Learning", "Data Analysis"]
     },
     {
       "name": "Lincoln Laboratory, Massachusetts Institute of Technology",
       "position": "Software Development Specialist",
       "url": "https://www.ll.mit.edu/",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "startDate": "Sep. 2021",
+      "endDate": "Sep. 2022",
+      "summary": "Conducted agile development of multi-threaded data analysis algorithms within existing enterprise system, resulting in first-ever detections of critical results, and processing time reductions of up to 50%. Utilized end-to-end CI/CD pipline in Jenkins for testing, code analysis/scanning, build and deployment.",
+      "highlights": [ "Algorithm Development", "Data Analysis", "Enterprise Software Development"]
+    },
+    {
+      "name": "Lincoln Laboratory, Massachusetts Institute of Technology",
+      "position": "Software Development Specialist",
+      "url": "https://www.ll.mit.edu/",
+      "startDate": "Sep. 2021",
+      "endDate": "Sep. 2022",
+      "summary": "Conducted agile development of multi-threaded data analysis algorithms within existing enterprise system, resulting in first-ever detections of critical results, and processing time reductions of up to 50%. Utilized end-to-end CI/CD pipline in Jenkins for testing, code analysis/scanning, build and deployment.",
+      "highlights": [ "Algorithm Development", "Data Analysis", "Enterprise Software Development"]
     }
   ],
   "volunteer": [
