@@ -5,6 +5,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - godincarter17/mastnu-disaster-response-project
   - ce1estia1teapot/evolution-game-2
   - ce1estia1teapot/space-track-plot
   - ce1estia1teapot/antsim
