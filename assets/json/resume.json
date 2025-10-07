@@ -88,7 +88,7 @@
       "location": "Troy, NY, USA",
       "url": "https://www.rpi.edu/",
       "area": "Aeronautical Engineering, Conc. Space Vehicle Design",
-      "studyType": "Bachelor of Science",
+      "studyType": "Bachelor of Science - 3.14/4.00 GPA",
       "startDate": "Aug. 2017",
       "endDate": "May 2021",
       "score": "3.14/4.00",
@@ -193,7 +193,18 @@
         "High-Dimensional Data Analysis",
         "Inference and Causality",
         "Human-Machine Teaming",
-        "Optimization for Training and Hyperparameter Tuning"
+        "Optimization for Training",
+        "Automated hyperparameter tuning"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Data Analytics Pipelines",
+        "Data Architecture",
+        "Microservices and Modularity",
+        "CI/CD and Automated Testing"
       ]
     }
   ],
