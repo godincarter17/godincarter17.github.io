@@ -201,17 +201,17 @@
     {
       "name": "Raoul Ouedraogo, PhD",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Associate Group Leader, Lincoln Laboratory, MIT. Direct Supervisor. \nEmail:raoul.ouedraogo@ll.mit.edu\nDirectly supervised my work on data analysis and software engineering projects. Can speak to my technical skills, work ethic, and ability to learn quickly."
+      "reference": "**Associate Group Leader, Lincoln Laboratory, MIT**. \nDirect Supervisor. \n**Email**: raoul.ouedraogo@ll.mit.edu\nDirectly supervised my work on data analysis and software engineering projects. Can speak to my technical skills, work ethic, and ability to learn quickly."
     },
     {
       "name": "George Pantazis",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "**Technical Staff, Lincoln Laboratory, MIT**. \nTeam Lead.\n**Email**: george.pantazis@ll.mit.edu\nDirected multiple technical projects for which I was a primary contributor. Can speak to my technical skills, technical communication, and ability to execute independently."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Michael Chan, PhD",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "**Technical Staff, Lincoln Laboratory, MIT**. \nProject Manager.\n**Email**: mchan@ll.mit.edu\nDirectly oversaw my work on a project consisting of experimental design, data analysis, and algorithm development. Can speak to my technical skills, adaptability, and technical communication."
     }
   ]
 }
