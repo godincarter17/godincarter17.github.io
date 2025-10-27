@@ -80,6 +80,26 @@
       "endDate": "Aug. 2019",
       "summary": "Supervised a floor of ~40 first-year students. Planned and executed monthly educational and social programs to foster community and personal growth. Served as a resource for students in crisis and referred them to campus resources as needed.",
       "highlights": ["Mentoring"]
+    },
+    {
+      "organization": "MIT Lincoln Laboratory - Beaver Works Summer Institute",
+      "location": "Lexington, MA, USA",
+      "position": "Technical Mentor",
+      "url": "https://beaverworks.ll.mit.edu/",
+      "startDate": "Apr. 2023",
+      "endDate": "Jun. 2024",
+      "summary": "Mentored teams of high school students as they designed, programmed, and constructed mock cubesats. Provided technical guidance on embedded systems programming, systems design, and project management. Assisted students in developing technical communication skills through presentations and reports.",
+      "highlights": ["Mentoring", "Technical Communication", "Technical Leadership"]
+    },
+    {
+      "organization": "MIT Lincoln Laboratory - SOCOM IGNITE Program",
+      "location": "Lexington, MA, USA",
+      "position": "Technical Mentor",
+      "url": "https://ignite.ll.mit.edu/ignite/",
+      "startDate": "Sep. 2024",
+      "endDate": "Jun. 2025",
+      "summary": "Mentored teams of undergraduate military cadets as they designed and implemented full, prototype solutions to Special Operations Command (SOCOM) challenges. Provided technical guidance on software architecture, data analysis, and project management. Assisted students in developing technical communication skills through presentations and reports.",
+      "highlights": ["Mentoring", "Technical Communication", "Technical Leadership"]
     }
   ],
   "education": [
@@ -146,6 +166,8 @@
       "keywords": [
         "Python",
         "C/C++",
+        "Java",
+        "JavaScript",
         "Bash",
         "Git",
         "PostgreSQL & MySQL",
@@ -163,6 +185,20 @@
         "Docker & Podman",
         "Kubernetes",
         "Waterfall & Agile Methodologies"
+      ]
+    },
+    {
+      "name": "AI/ML",
+      "level": "Professional",
+      "icon": "",
+      "keywords": [
+        "PyTorch",
+        "Scikit-Learn",
+        "TensorFlow & Keras",
+        "Model Evaluation & Validation",
+        "Hyperparameter Tuning",
+        "Data Preprocessing & Feature Engineering",
+        "Hugging Face"
       ]
     },
     {
@@ -189,12 +225,13 @@
       "name": "Artificial Intelligence & Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Reinforcement Learning for Control",
-        "High-Dimensional Data Analysis",
         "Inference and Causality",
-        "Human-Machine Teaming",
+        "Social Network Analysis",
+        "Machine Learning for Sociological Analysis",
+        "High-Dimensional Data Analysis",
+        "Automated hyperparameter tuning",
         "Optimization for Training",
-        "Automated hyperparameter tuning"
+        "Human-Machine Teaming"
       ]
     },
     {
@@ -204,7 +241,8 @@
         "Data Analytics Pipelines",
         "Data Architecture",
         "Microservices and Modularity",
-        "CI/CD and Automated Testing"
+        "CI/CD and Automated Testing",
+        "DevSecOps"
       ]
     }
   ],
