@@ -8,24 +8,35 @@ category: Academic
 giscus_comments: true
 ---
 
+Below is a summary of the DREAD project. The full report can be found [here](https://docs.google.com/document/d/1LPG1WcTxJh1bnaGEkQjsyuTOKujlfktjkSLCkS3Jnm8/edit?usp=sharing). If there is any trouble with the link or viewing the report. Please reach out to Carter (godincarter17@gmail.com)
+
+The DREAD mission was my capstone design project for my undergraduate degree. I worked on a team of 5 to develop a proposal for a simulated NASA Discovery-class mission, the goal of which was to solicit proposals for novel solutions the Agency's outstanding science objectives in the inner solar system. My team elected for a study of the composition and origin of the Martian moon Deimos by way of a novel geodyssey orbiter placed in a complex quasi-satellite orbit of the moon. Other examples of Discovery Class missions include the below, found [here](https://science.nasa.gov/planetary-science/programs/discovery/):
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-3.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Figure 1: Examples of completed and proposed Discovery class missions. 
 </div>
 <div class="row">
+
+Generally, the goal of the proposed mission was to generate a comprehensive, sub-surface density and mineral composition map of Deimos to enable future investigation of the moon's presently obscure origins. To accomplish this, the team outlined a concept for a novel reconaissance orbiter which would deploy independently-orbiting retroreflectors to be used as measurement points. These points could be remotely and precisely ranged using LIDAR and used to measure minute perturbation's in the gravity field of Deimos, in turn allowing inference about the sub-surface composition of the moon.
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-1.png" title="dread fact sheet" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    1: Overview for the DREAD mission 2: Fact sheet for DREAD mission and Aphrodite Vehicle
+</div>
+<div class="row">
+
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
