@@ -5,7 +5,7 @@ permalink: /projects/
 description: “I discover myself on the verge of a usual mistake.” ― Walt Whitman, Song of Myself
 nav: true
 nav_order: 3
-display_categories: [Academic, Work, Fun]
+display_categories: [Academic, Personal]
 horizontal: false
 ---
 
