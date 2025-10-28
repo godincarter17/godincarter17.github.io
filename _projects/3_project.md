@@ -3,7 +3,7 @@ layout: page
 title: SATYR - An open-source mesh plant monitoring system
 description: A diy plant health monitoring and management tool.
 img: assets/img/plant-icon.png
-importance: 1
+importance: 2
 category: Personal
 giscus_comments: true
 ---
