@@ -106,7 +106,7 @@ Provided here are also examples of tables used to record and organize key design
     </div>
 </div>
 <div class="caption">
-    Figure 4: Sample visual aids from DREAD 
+    Figure 5: Sample tables from DREAD 
 </div>
 
 
