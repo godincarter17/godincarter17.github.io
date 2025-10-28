@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "CV for Carter Godin. Outlining work and volunteer experience, education, awards, skills, and research interests.",
           section: "Navigation",
           handler: () => {
@@ -429,16 +429,6 @@ ninja.data = [{
           description: "A novel Deimos geodyssey orbiter and interplanetary science mission concept.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
