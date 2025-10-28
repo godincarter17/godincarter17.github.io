@@ -429,6 +429,11 @@ ninja.data = [{
           description: "A novel Deimos geodyssey orbiter and interplanetary science mission concept.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-satyr-an-open-source-mesh-plant-monitoring-system",
+          title: 'SATYR - An open-source mesh plant monitoring system',
+          description: "A diy plant health monitoring and management tool.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
