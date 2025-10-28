@@ -23,11 +23,11 @@ Generally, the goal of the proposed mission was to generate a comprehensive, sub
     </div>
 </div>
 <div class="caption">
-    Figure 2: Overview for the DREAD mission.    Figure 3: Fact sheet for DREAD mission and Aphrodite Vehicle.
+    Figure 1: Overview for the DREAD mission.    Figure 2: Fact sheet for DREAD mission and Aphrodite Vehicle.
 </div>
 <div class="row">
 
-Other examples of Discovery Class missions include the below, found [here](https://science.nasa.gov/planetary-science/programs/discovery/):
+Other examples of Discovery Class missions include the below, found [here](https://science.nasa.gov/planetary-science/programs/discovery/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,12 +35,12 @@ Other examples of Discovery Class missions include the below, found [here](https
     </div>
 </div>
 <div class="caption">
-    Figure 1: Examples of completed and proposed Discovery class missions. 
+    Figure 3: Examples of completed and proposed Discovery class missions. 
 </div>
-<div class="row">
 
 To tackle the problem, the team worked to first define project constraints and goals as well as planned deliverables. Following this, an action plan was developed outlining key areas of work to enable deliverables as well as defining pre-requisite relationships between tasks. With these complete, the team had a view of the problem at large, as well as a sense of the low-level effort required to complete it. Task areas were then delegated between team members based on expertise and interest, and sub-objectives to measure progress were created and aligned with the capstone design check-in schedule.
 
+```
 1. Draft science goals
     - Ensure science goal alignment with NASA Discovery priorities
     - Ensure alignment with course constraints.
@@ -55,29 +55,60 @@ To tackle the problem, the team worked to first define project constraints and g
     - Develop test and integration plan for subsystems
 4. Organize team
     - Assign tasking
-    - Develop plan for progress tracking, check-ins
+    - Develop plan for progress tracking, check-ins, pre-deliverable draft dates
     - Establish communication norms
     - Set up shared workspaces, file-sharing
 5. Execute
     - Regular check-ins with team to ensure progress
     - Regular check-ins with faculty to ensure alignment of effort with course objectives and timeliness of completion
+```
 
+This article has been a sample of the full project. To view the complete report, follow this [link](https://docs.google.com/document/d/1LPG1WcTxJh1bnaGEkQjsyuTOKujlfktjkSLCkS3Jnm8/edit?usp=sharing). Below are some sample figures developed during the team's work and included in the report.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-4.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-5.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-10.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-11.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-9.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-13.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Figure 4: Sample visual aids from DREAD 
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Provided here are also examples of tables used to record and organize key design information for the system's many parts:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-8.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-7.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-6.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/dread-pic-12.png" title="discovery class mission examples" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 4: Sample visual aids from DREAD 
+</div>
+
+
 
 
