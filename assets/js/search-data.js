@@ -427,8 +427,8 @@ ninja.data = [{
           description: "A diy plant health monitoring and management tool.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-flint-where-connections-are-built-not-bought",
-          title: 'Flint - Where connections are built, not bought.',
+            },},{id: "projects-flint",
+          title: 'FLINT',
           description: "A free to use, open source, and community-managed dating app.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
