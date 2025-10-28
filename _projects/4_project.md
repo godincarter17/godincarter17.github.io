@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flint - Where connections are built, not bought.
+title: FLINT
 description: A free to use, open source, and community-managed dating app.
 img: assets/img/flint-logo.png
 importance: 1
@@ -28,6 +28,12 @@ The app will enable the same core functionalities as its closed source counterpa
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flint-pic-2.jpg" title="flint screen 1" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Left: A view of the user's recommendation feed Right: The profile editor
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/flint-pic-3.jpg" title="flint screen 1" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -36,7 +42,7 @@ The app will enable the same core functionalities as its closed source counterpa
     </div>
 </div>
 <div class="caption">
-    In order: A view of the user's recommendation feed, the profile editor, the messaging interface, and the likes/match interface.
+    Left: The messaging interface Right: The likes/match interface.
 </div>
 
 
