@@ -55,3 +55,14 @@ Development will proceed according to the Road Map. The focus for the first year
 <div class="caption">
     Notional road map of near future Flint development.
 </div>
+
+The core features alluded to above will include all of the same key pillars as flint's predatory, for-profit counterparts. A continuous feed of recommended people Comm Liking and disliking, messaging of matches, as well as descriptive and personal profiles to avoid the window shopping of the worst offenders. An emphasis will be put on extensibility and community driven features and layouts to allow customization of the user interface to individual preference.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/flint-pic-6.jpg" title="flint screen 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Notional road map of near future Flint development.
+</div>
