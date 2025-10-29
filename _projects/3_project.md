@@ -8,7 +8,7 @@ category: Personal
 giscus_comments: true
 ---
 
-Satyr was a planned personal project I had worked on for some time. The overall idea was to create 3 main parts: On device firmware for the plant sensors that was open source and extensible to enable customizability. Back end, server code that could be open sourced to enable compatibility with many types of sensors. an intuitive front end, comprised of a mobile client and web app to allow intuitive monitoring, configuration, and maintenance of a user's devices.
+Satyr was a planned personal project I had worked on for some time. The overall idea was to create 3 main parts: On-device firmware for the plant sensors that was open source and extensible to enable customizability. Back-end server code that could be open sourced to enable compatibility with many types of sensors to be developed later. An intuitive front end, comprised of a mobile client and web app to allow intuitive monitoring, configuration, and maintenance of a user's devices.
 
 Below is a graphic representation of the notional system architecture.
 
@@ -21,7 +21,7 @@ Below is a graphic representation of the notional system architecture.
     </div>
 </div>
 <div class="caption">
-    Figure 1: Notional system architecture for the SATYR project.
+    Figure 1: Notional system architecture for the SATYR project. Figure 2: Concept design
 </div>
 
 With a flexible, open source skeleton, the plan was to also build a robust set of analytics on top of the collected data. Using freely available data for many plant species about their water usage, growth rates, and nutrient intake, a complex picture could be painted of an individual plant being sensed and what might need to be changed to optimize its growth. This has obvious use for personal applications like keeping plants alive in the home, but could easily be extended to enable management of large clusters of plants on a commercial scale like in a plant nursery.

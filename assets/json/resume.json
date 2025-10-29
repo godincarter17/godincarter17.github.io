@@ -244,6 +244,18 @@
         "CI/CD and Automated Testing",
         "DevSecOps"
       ]
+    },
+    {
+      "name": "Personal",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "New wave sci-fi",
+        "Game Development",
+        "Songwriting and music production",
+        "Piano, guitar, violin",
+        "Poetry",
+        "FPV Drong construction and racing"
+      ]
     }
   ],
   "references": [
