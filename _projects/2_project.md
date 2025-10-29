@@ -8,7 +8,7 @@ category: Academic
 giscus_comments: true
 ---
 
-Below is a summary of the DREAD project. The full report can be found [here](https://docs.google.com/document/d/1LPG1WcTxJh1bnaGEkQjsyuTOKujlfktjkSLCkS3Jnm8/edit?usp=sharing). If there is any trouble with the link or viewing the report. Please reach out to Carter (godincarter17@gmail.com)
+Below is a summary of the DREAD project. The full report can be found [here](https://docs.google.com/document/d/1LPG1WcTxJh1bnaGEkQjsyuTOKujlfktjkSLCkS3Jnm8/edit?usp=sharing) . If there is any trouble with the link or viewing the report. Please reach out to Carter (godincarter17@gmail.com)
 
 The DREAD mission was my capstone design project for my undergraduate degree. I worked on a team of 5 to develop a proposal for a simulated NASA Discovery-class mission. The Discovery Mission program is used by NASA to solicit proposals for novel solutions the Agency's outstanding science objectives in the inner solar system. My team elected for a study of the composition and origin of the Martian moon Deimos by way of a novel geodyssey orbiter placed in a complex quasi-satellite orbit of the moon. 
 
@@ -27,7 +27,7 @@ Generally, the goal of the proposed mission was to generate a comprehensive, sub
 </div>
 <div class="row">
 
-Other examples of Discovery Class missions include the below, found [here](https://science.nasa.gov/planetary-science/programs/discovery/).
+Other examples of Discovery Class missions include the below, found [here](https://science.nasa.gov/planetary-science/programs/discovery/) .
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,30 +40,30 @@ Other examples of Discovery Class missions include the below, found [here](https
 
 To tackle the problem, the team worked to first define project constraints and goals as well as planned deliverables. Following this, an action plan was developed outlining key areas of work to enable deliverables as well as defining pre-requisite relationships between tasks. With these complete, the team had a view of the problem at large, as well as a sense of the low-level effort required to complete it. Task areas were then delegated between team members based on expertise and interest, and sub-objectives to measure progress were created and aligned with the capstone design check-in schedule.
 
-```
-1. Draft science goals
-    - Ensure science goal alignment with NASA Discovery priorities
-    - Ensure alignment with course constraints.
-    - Ensure feasibility with available technologies and budget.
-2. Define deliverables
-    - Align deliverables with science goals
-    - Align deliverables with course milestones
-3. Generate action plan
-    - Outline core areas of effort
-    - Refine core areas to low-level tasks
-    - Develop minor deliverables to illustrate sub-system function
-    - Develop test and integration plan for subsystems
-4. Organize team
-    - Assign tasking
-    - Develop plan for progress tracking, check-ins, pre-deliverable draft dates
-    - Establish communication norms
-    - Set up shared workspaces, file-sharing
-5. Execute
-    - Regular check-ins with team to ensure progress
-    - Regular check-ins with faculty to ensure alignment of effort with course objectives and timeliness of completion
-```
+<div>
+    1. Draft science goals
+        - Ensure science goal alignment with NASA Discovery priorities
+        - Ensure alignment with course constraints.
+        - Ensure feasibility with available technologies and budget.
+    2. Define deliverables
+        - Align deliverables with science goals
+        - Align deliverables with course milestones
+    3. Generate action plan
+        - Outline core areas of effort
+        - Refine core areas to low-level tasks
+        - Develop minor deliverables to illustrate sub-system function
+        - Develop test and integration plan for subsystems
+    4. Organize team
+        - Assign tasking
+        - Develop plan for progress tracking, check-ins, pre-deliverable draft dates
+        - Establish communication norms
+        - Set up shared workspaces, file-sharing
+    5. Execute
+        - Regular check-ins with team to ensure progress
+        - Regular check-ins with faculty to ensure alignment of effort with course objectives and timeliness of completion
+</div>
 
-This article has been a sample of the full project. To view the complete report, follow this [link](https://docs.google.com/document/d/1LPG1WcTxJh1bnaGEkQjsyuTOKujlfktjkSLCkS3Jnm8/edit?usp=sharing). Below are some sample figures developed during the team's work and included in the report.
+This article has been a sample of the full project. To view the complete report, follow this [link](https://docs.google.com/document/d/1LPG1WcTxJh1bnaGEkQjsyuTOKujlfktjkSLCkS3Jnm8/edit?usp=sharing) . Below are some sample figures developed during the team's work and included in the report.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
