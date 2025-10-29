@@ -64,5 +64,5 @@ The core features alluded to above will include all of the same key pillars as f
     </div>
 </div>
 <div class="caption">
-    Notional road map of near future Flint development.
+    Some core, intended features of the app.
 </div>
