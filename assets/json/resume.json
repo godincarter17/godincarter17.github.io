@@ -222,16 +222,26 @@
   ],
   "interests": [
     {
+      "name": "Research Interests",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Data science automation",
+        "Inference and Causality",
+        "Social Network Analysis",
+        "Game-theoretic analysis of transportation networks",
+        "Automated machine learning"
+      ]
+    },
+    {
       "name": "Artificial Intelligence & Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Inference and Causality",
-        "Social Network Analysis",
         "Machine Learning for Sociological Analysis",
         "High-Dimensional Data Analysis",
         "Automated hyperparameter tuning",
         "Optimization for Training",
-        "Human-Machine Teaming"
+        "Human-Machine Teaming",
+        "Fairness and accountability in machine learning"
       ]
     },
     {
