@@ -222,13 +222,13 @@
   ],
   "interests": [
     {
-      "name": "Research Interests",
+      "name": "Select Research Interests",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Data science automation",
-        "Inference and Causality",
+        "Statistical inference and Causality",
         "Social Network Analysis",
-        "Game-theoretic analysis of transportation networks",
+        "Game-theoretic analysis of social networks",
         "Automated machine learning"
       ]
     },
